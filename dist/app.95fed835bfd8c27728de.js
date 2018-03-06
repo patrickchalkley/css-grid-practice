@@ -1,0 +1,1 @@
+webpackJsonp([0],[function(e,t,n){"use strict";var o=n(1),u=function(e){return e&&e.__esModule?e:{default:e}}(o);n(2),document.getElementById("root").innerHTML=(0,u.default)()},function(e,t,n){"use strict";function sayHello(){return"Hello World!"}Object.defineProperty(t,"__esModule",{value:!0}),t.default=sayHello},function(e,t){}],[0]);
